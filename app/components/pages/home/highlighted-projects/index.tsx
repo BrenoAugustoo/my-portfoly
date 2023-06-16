@@ -8,7 +8,7 @@ export function HighlightedProjects () {
   return (
     <section className="container py-16">
       <SectionTitle subtitle="destaques" title="Projetos em destaque"/>
-      <HorizontalDivider className="mb-16" />
+      <HorizontalDivider className="mb-16" /> 
 
       <div>
         <ProjectCard/>
