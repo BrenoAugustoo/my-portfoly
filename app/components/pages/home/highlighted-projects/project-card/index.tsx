@@ -10,7 +10,7 @@ export function ProjectCard () {
         <Image 
           width={420} 
           height={304} 
-          src=""
+          src="https://lncimg.lance.com.br/cdn-cgi/image/width=3840,quality=75,format=webp/uploads/2023/03/31/64275624de0fd.jpeg"
           alt="Thumbnail do projeto bookwise"
           className="lg:min-h-full w-full h-[200px] sm:h-[300px] lg:w-[420px] object-cover rounded-lg"
         />

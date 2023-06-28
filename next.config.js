@@ -4,7 +4,7 @@ const nextConfig = {
     appDir: true,
   },
   images: {
-    domains: ['media.graphassets.com', 'mir-s3-cdn-cf.behance.net'],
+    domains: ['media.graphassets.com', 'mir-s3-cdn-cf.behance.net', 'lncimg.lance.com.br'],
   },
 }
 
